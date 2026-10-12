@@ -1,10 +1,20 @@
-
 # ZFormatics Website: Making B2B Data Intelligence and Marketing Services Easier to Understand
 
 **ZFormatics is a Srinagar-based B2B data intelligence and digital marketing solutions business whose [website](https://zformatics.com/) appears in the [Tech Conversion](https://techconversion.tech/portfolio) portfolio. The website brings buying-centre insight, managed marketing databases, competitive intelligence, marketing services, database management and website development into one service-led experience. Its central message, “Smarter Data. Better Decisions. Faster Growth.”, introduces a practical proposition for teams seeking better prospect information and more focused campaigns.**
 
- Add an authenticated current homepage screenshot to the images folder before activating:
-![ZFormatics B2B data intelligence website homepage](images/zformatics-homepage.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/zformatics-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/zformatics-website-mockup.webp" alt="ZFormatics website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://zformatics.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; after gallery</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -16,12 +26,12 @@
 | **Agency portfolio** | [Tech Conversion](https://techconversion.tech/portfolio), Chennai, India |
 | **Core services** | Buying-centre insight, managed marketing database, competitive intelligence, digital marketing, database management, website development |
 | **Audience** | Sales leaders, marketers, demand-generation teams and growing B2B businesses |
-| **Technology** | Production CMS, hosting, analytics and form-delivery stack not independently audited |
-| **Project images** | Original ZFormatics screenshots not identified in the reviewed saved image library |
+| **GitHub repository** | [TechConversionOfficial/ZFormatics-](https://github.com/TechConversionOfficial/ZFormatics-) |
+| **Technology** | Production CMS, hosting, analytics, CRM and form-delivery stack not independently audited |
 
 ## About ZFormatics
 
-ZFormatics presents itself as a data intelligence and marketing automation business helping companies make better use of prospect data. Its public business profile describes the company as a supplier of B2B contact databases and related marketing services. The [company's LinkedIn profile](https://in.linkedin.com/company/zformatics-solutions) identifies Srinagar as its headquarters and links to **zformatics.com**.
+ZFormatics presents itself as a data intelligence and marketing automation business helping companies make better use of prospect data. Its public business profile describes the company as a supplier of B2B contact databases and related marketing services. The company's LinkedIn profile identifies Srinagar as its headquarters and links to **zformatics.com**.
 
 The current website uses a six-part service structure:
 
@@ -32,7 +42,7 @@ The current website uses a six-part service structure:
 - **Database Management:** data cleansing, validation, maintenance and related information services.
 - **Website Development:** business website design and development for lead generation.
 
-The site also introduces the company’s philosophy, team culture and a contact form. It displays public company figures, satisfaction percentages and lead-growth claims. Those numbers are **client-published marketing claims**, not verified outcomes of Tech Conversion's website work.
+The site also introduces the company's philosophy, team culture and a contact form. It displays public company figures, satisfaction percentages and lead-growth claims. Those numbers are **client-published marketing claims**, not verified outcomes of Tech Conversion's website work.
 
 ## The Communication Challenge
 
@@ -40,66 +50,89 @@ B2B data services can be difficult for an unfamiliar visitor to assess. A sales 
 
 A useful B2B services website must therefore show **what the company provides, which problem each solution addresses and how a prospective customer can start a conversation**. That requires a concise proposition, understandable categories, credible business context and a clearly visible enquiry route.
 
-This is the challenge suggested by the company's offering and its current site structure. An older production website audit or a verified internal project brief was not available.
+The supplied Tech Conversion project media now supports a direct visual comparison between an earlier and redesigned homepage presentation. It does not by itself establish traffic, lead, conversion, data-quality or revenue improvement.
 
 ## How the Website Presents the Business
 
-The following points describe **features that can be observed on the public website** and the project’s portfolio positioning. They are not a claim that every component was originally created by Tech Conversion or that every backend integration has been tested.
+The following points describe visible public website structure and the project's portfolio positioning. They are not a claim that every component was originally created by Tech Conversion or that every backend integration has been tested.
 
-1. **Start with a clear business message.** The homepage leads with “Smarter Data. Better Decisions. Faster Growth.” and explains the combined data intelligence and marketing proposition.
-2. **Organise six service families.** Distinct cards make buying-centre intelligence, marketing databases, competitive research, digital campaigns, database management and website development easier to scan.
-3. **Explain each service in practical language.** Short supporting points, such as decision-maker mapping, enrichment, market analysis and data cleansing, give visitors a sense of what to discuss with the team.
-4. **Connect research to commercial use.** The content frames B2B information around prospecting, campaign planning and sales decisions instead of presenting a vague catalogue of data-related terminology.
-5. **Offer two clear early actions.** “Get Started” and “View Services” give visitors either a contact route or a way to understand the offering before enquiring.
-6. **Introduce the company behind the solutions.** An About section explains the company’s stated experience, approach and service philosophy.
+1. **Start with a clear business message.** The homepage leads with “Smarter Data. Better Decisions. Faster Growth.” and explains the combined data-intelligence and marketing proposition.
+2. **Organise six service families.** Distinct sections make buying-centre intelligence, marketing databases, competitive research, digital campaigns, database management and website development easier to scan.
+3. **Explain each service in practical language.** Decision-maker mapping, enrichment, market analysis and data cleansing give visitors a clearer sense of what to discuss with the team.
+4. **Connect research to commercial use.** The content frames B2B information around prospecting, campaign planning and sales decisions instead of presenting a vague catalogue of data terminology.
+5. **Offer clear early actions.** “Get Started” and “View Services” provide either a contact route or a way to understand the offering before enquiring.
+6. **Introduce the company behind the solutions.** An About section explains the company's stated experience, approach and service philosophy.
 7. **Give enquiries a dedicated closing section.** A contact form collects name, email, phone and a short message; a meeting/contact action is also displayed. Submission delivery was not independently tested.
 8. **Keep contact details visible.** The footer publishes the Srinagar location, telephone number and a company email address for prospective clients.
 
-## Project Screenshots
+## Website and Project Images
 
-**Authentic ZFormatics-specific screenshots were not found in the saved Tech Conversion project-image library.** The image references below are deliberately hidden in HTML comments to avoid broken images on GitHub. Add real captures of [zformatics.com](https://zformatics.com/) or original client-authorised design files before enabling them.
+### Official Website Mockup
 
-### Homepage and Value Proposition
+The following Tech Conversion portfolio mockup presents ZFormatics as a professional B2B data-intelligence and digital-marketing services website.
 
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/zformatics-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/zformatics-website-mockup.webp" alt="ZFormatics responsive B2B data intelligence website mockup" width="100%" />
+  </a>
+</p>
 
-![ZFormatics homepage and B2B services proposition](images/zformatics-homepage.webp)
+*Click the image to open the full-resolution mockup.*
 
+### Website Transformation Overview
 
-### B2B Data and Marketing Service Grid
+The following Tech Conversion comparison presents the earlier and redesigned ZFormatics website side by side.
 
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/zformatics-before-after.webp">
+    <img src="https://techconversion.tech/api/media/before-after/zformatics-before-after.webp" alt="ZFormatics website redesign before and after comparison" width="100%" />
+  </a>
+</p>
 
-![ZFormatics buying-centre, marketing database and intelligence service grid](images/zformatics-services.webp)
+*The comparison graphic provides a visual overview. The full-page screenshots below show both versions in more detail.*
 
+## Full-length BEFORE and AFTER Comparison
 
-### Managed Marketing Database Section
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="center">BEFORE — Original Website</th>
+      <th width="50%" align="center">AFTER — Redesigned Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/zformatics-old-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/zformatics-old-website-home-page.webp" alt="ZFormatics original website full-page screenshot before redesign" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/zformatics-new-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/zformatics-new-website-home-page.webp" alt="ZFormatics redesigned website full-page screenshot after redesign" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/zformatics-old-website-home-page.webp"><strong>View full-size BEFORE screenshot</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/zformatics-new-website-home-page.webp"><strong>View full-size AFTER screenshot</strong></a>
+</p>
 
-![ZFormatics marketing database and data enrichment content](images/zformatics-marketing-database.webp)
+### Image Provenance
 
+The website mockup, before-and-after presentation and full-length screenshots above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's placeholder local `images/...` references and the `IMAGE-SOURCES.md` dependency.
 
-### About ZFormatics
+These visuals document the website presentation, but they are **not evidence of independently measured improvements in organic traffic, leads, conversions, SEO rankings, revenue, database accuracy, campaign performance or client growth**.
 
-
-![ZFormatics About section and company positioning](images/zformatics-about.webp)
-
-
-### Contact and Enquiry Section
-
-
-![ZFormatics business contact enquiry form](images/zformatics-contact.webp)
-
-
-### Mobile Website
-
-
-![ZFormatics responsive mobile website](images/zformatics-mobile.webp)
-
-
-See [IMAGE-SOURCES.md](IMAGE-SOURCES.md) for exact filenames and authenticity requirements. Do not present generic B2B dashboard designs, fabricated screenshots or images from unrelated companies as original ZFormatics work.
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key Visitor Journeys
 
-The current public website exposes **Home, Services, About and Contact navigation on the same landing-page experience**. To avoid inventing separate routes, this table links to the confirmed domain rather than claiming verified page URLs.
+The current public website exposes **Home, Services, About and Contact** within the same landing-page experience. To avoid inventing separate routes, this table links to the confirmed domain rather than claiming page URLs that have not been verified.
 
 | Visitor objective | Relevant website area |
 |---|---|
@@ -119,23 +152,25 @@ These are **review criteria**, not statements that a formal audit or certificati
 - **[Core Web Vitals](https://web.dev/articles/vitals):** assess homepage loading, interaction responsiveness and layout stability across devices.
 - **[WCAG 2.2 Level AA](https://www.w3.org/TR/WCAG22/):** review keyboard navigation, accessible service links, text contrast, labelled form controls and focus visibility.
 - **[Google Search Essentials](https://developers.google.com/search/docs/essentials):** review meaningful service descriptions, crawlable navigation, page titles and helpful internal linking.
-- **[Schema.org](https://schema.org/):** evaluate appropriate Organisation, Service and BreadcrumbList data, where supported by actual page structure.
+- **[Schema.org](https://schema.org/):** evaluate appropriate Organisation, Service and BreadcrumbList data where supported by actual page structure.
 - **B2B data privacy and compliance:** ensure contact data, list building and marketing campaigns comply with applicable privacy, consent, anti-spam and data-protection requirements.
-- **Data accuracy and claims:** validate any claimed contact accuracy, client totals, satisfaction percentage or growth multiplier against documented methods and dates.
+- **Data accuracy and claims:** validate claimed contact accuracy, client totals, satisfaction percentages or growth multipliers against documented methods and dates.
 - **Form security and handling:** check validation, abuse prevention, secure transmission, retention and delivery of lead enquiries.
-- **Content consistency:** review the browser title and page metadata; the publicly retrieved homepage title is “Harbor Landing - Z Formatics”, which merits a client-approved SEO/title check.
+- **Content consistency:** review browser title and page metadata. The previously observed homepage title, **“Harbor Landing - Z Formatics,”** warrants a client-approved SEO/title review if still present.
 
 ## Before and After
 
-No authenticated, dated **previous-versus-current website screenshots** were available in the reviewed project files. The current website and Tech Conversion portfolio establish the project context, but they do not independently prove a specific visual redesign history, publishing date or conversion improvement.
+The supplied Tech Conversion assets include a dedicated before-and-after comparison plus full-length screenshots of the earlier and redesigned ZFormatics homepages. They support a clear **visual before-and-after presentation of the website project**.
 
-A reliable before-and-after section can be added later using dated browser captures, original design files and, if approved by the client, performance data for comparable periods.
+The comparison can document changes in proposition clarity, service grouping, hierarchy, enquiry visibility and overall presentation. These are design observations, not independently measured commercial outcomes.
+
+The screenshots do **not** independently establish exact deployment dates, A/B testing, lead growth, conversion improvement, SEO gains, database-quality improvement or revenue uplift.
 
 ## Results
 
-**Publicly supported:** ZFormatics has a live corporate website at [zformatics.com](https://zformatics.com/) explaining six service families, with company background, direct actions and a contact form. Tech Conversion includes ZFormatics in its public project portfolio. The company's own LinkedIn profile identifies the same domain and its Srinagar location.
+**Publicly supported:** ZFormatics has a corporate website at [zformatics.com](https://zformatics.com/) explaining six service families, with company background, direct actions and a contact form. Tech Conversion includes ZFormatics in its public project portfolio. The supplied project media now documents earlier and redesigned homepage presentations.
 
-**Not independently tested:** form submission/delivery, CRM integration, database services delivered to customers, website CMS, hosting, analytics, or accessibility performance.
+**Not independently tested:** form submission/delivery, CRM integration, database services delivered to customers, website CMS, hosting, analytics or accessibility performance.
 
 **Not independently measured:** organic-traffic growth, leads, conversions, SEO ranking changes, revenue, data accuracy or improvements attributable to the website. Client-published business figures are not treated as verified case-study results.
 
@@ -144,7 +179,16 @@ A reliable before-and-after section can be added later using dated browser captu
 [Tech Conversion](https://techconversion.tech/) is a website development and digital marketing agency based in Chennai, India. Its work spans corporate websites, B2B platforms, ecommerce, SEO, paid media and conversion-focused digital experiences.
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
-- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies/)
+- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public portfolio description**, not a distribution of live website source code, customer databases, prospect lists, contact information exports, client contracts, private project files or administrator credentials. ZFormatics branding and other intellectual property remain with the respective rights holders.
+## Repository Scope and Image Credits
+
+This repository is a **public portfolio description**, not a distribution of live website source code, customer databases, prospect lists, contact-information exports, client contracts, private project files or administrator credentials.
+
+The website mockup, transformation artwork and full-page screenshots are sourced from Tech Conversion's public project media. ZFormatics branding and other intellectual property remain with the respective rights holders.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
